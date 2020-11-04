@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:adminpass@cluster0.jorhd.mongodb.net/Bamboobar",
+  "port" : "5000"
+}
